@@ -14,7 +14,7 @@ class TarjetaPlanTuristico extends HTMLElement {
   
       this.shadowRoot.innerHTML = 
          <style>
-          .tarjet {
+             {
           border: 1px solid #ddd;
           border-radius: 8px;
           padding: 16px;
