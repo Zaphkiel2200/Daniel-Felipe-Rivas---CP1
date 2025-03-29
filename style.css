@@ -16,3 +16,9 @@ body {
     gap: 25px;
     padding: 25px;
   }
+
+h1 {
+    color: blueviolet;
+    font-size: 3rem;
+    margin-top: 3rem;
+}

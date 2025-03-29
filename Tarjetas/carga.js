@@ -15,3 +15,5 @@ document.addEventListener('DOMContentLoaded', async () => {
       container.innerHTML = '<p>Error al cargar los planes</p>';
     }
   });
+
+  
